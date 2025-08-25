@@ -1,1 +1,2 @@
-# MySQL_netflix_project
+# Netflix data analysis using sql
+[]()
